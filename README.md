@@ -66,26 +66,6 @@ analyst = {
 
 ---
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seshasudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshasudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=seshasudi&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **M.S. Business Analytics & Artificial Intelligence** — University of Texas at Dallas *(2023–2025)*
@@ -98,9 +78,9 @@ analyst = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sesha%20Sudi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seshasudi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sesha%20Sudi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sesha-sai-krishna-sudi/)
 [![Email](https://img.shields.io/badge/Gmail-seshasudi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seshasudi@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-984--325--4848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9843254848)
+
 
 *Open to Data Analyst, Senior Analyst, and Analytics Engineering roles.*
 
