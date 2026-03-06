@@ -12,7 +12,7 @@
 
 <!-- Profile Views + GitHub Stats Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=seshasudi&color=00d4ff&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seshasudi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sesha-sai-krishna-sudi/)
 [![Email](https://img.shields.io/badge/Email-seshasudi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seshasudi@gmail.com)
 
 </div>
