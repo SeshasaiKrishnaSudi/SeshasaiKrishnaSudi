@@ -1,16 +1,147 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SeshasaiKrishnaSudi/SeshasaiKrishnaSudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sesha%20Sai%20Krishna%20Sudi&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20BI%20%7C%20ML&descAlignY=58&descColor=a8dadc&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions.;5%2B+years+%7C+Banking+%7C+Consulting+%7C+Enterprise;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+Power+BI+%E2%80%A2+Snowflake;Currently+%40+JPMorgan+Chase+%26+Co." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Profile Views + GitHub Stats Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=seshasudi&color=00d4ff&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/seshasudi)
+[![Email](https://img.shields.io/badge/Email-seshasudi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seshasudi@gmail.com)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+analyst = {
+    "name"      : "Sesha Sai Krishna Sudi",
+    "location"  : "North Carolina, USA 📍",
+    "education" : "M.S. Business Analytics & AI — UT Dallas",
+    "current"   : "Data Analyst @ JPMorgan Chase & Co.",
+    "experience": "5+ years across Banking, Consulting & Enterprise",
+    "strengths" : ["SQL Optimization", "ETL Pipelines", "Dashboards", "Predictive Modeling"],
+    "fun_fact"  : "I've analyzed 300GB+ datasets and turned them into $400K+ cost savings 💡"
+}
+```
+
+> *"Data is the new oil — I'm the refinery."*
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Languages & Analysis
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-pandas%20%7C%20NumPy%20%7C%20scikit--learn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Statistical%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced%20%7C%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 📈 BI & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Executive%20Reporting-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker%20Studio-Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🗄️ Databases & Warehouses
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-GCP-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ ETL & Engineering
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-Pipelines-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-ETL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-Automation-00A8E0?style=for-the-badge&logo=alteryx&logoColor=white)
+![dbt](https://img.shields.io/badge/SSIS%20%7C%20Talend-Data%20Integration-FF6B35?style=for-the-badge)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Spark-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+> Click on any project to explore the full analysis, code, and findings.
+
+| # | Project | Tools | Highlights |
+|---|---------|-------|------------|
+| 🏦 | **[Financial Anomaly Detection](https://github.com/seshasudi/financial-anomaly-detection)** | Python, SQL, Snowflake, Power BI | Flagged 120+ high-risk entries using ML-based anomaly scoring |
+| 📊 | **[Revenue Forecasting Engine](https://github.com/seshasudi/revenue-forecasting)** | Python, ARIMA, Prophet, Tableau | Time-series models supporting $1.5M+ in annual strategic decisions |
+| 🔄 | **[End-to-End ETL Pipeline](https://github.com/seshasudi/etl-pipeline-project)** | Python, Airflow, PostgreSQL, dbt | Automated pipeline reducing weekly prep time by 18+ hours |
+| 🧠 | **[Advanced SQL Case Studies](https://github.com/seshasudi/sql-case-studies)** | SQL (CTEs, Window Functions) | 25+ real-world problems solved with complex query patterns |
+| 🛒 | **[Procurement Analytics & Cohort Analysis](https://github.com/seshasudi/procurement-analytics)** | R, Python, Power BI | Spending patterns → $400K+ cost savings recommendations |
+| 🧪 | **[A/B Testing Framework](https://github.com/seshasudi/ab-testing-framework)** | Python, Statistics, Jupyter | Full hypothesis testing workflow with real e-commerce data |
+
+---
+
+## 📌 Career Highlights
+
+<table>
+<tr>
+<td>🏦 <b>JPMorgan Chase & Co.</b><br/>Data Analyst | Aug 2025–Present</td>
+<td>• 30% faster report generation via SQL optimization<br/>• 10+ automated Tableau dashboards for risk & finance<br/>• 40% reduction in manual SOX reporting time</td>
+</tr>
+<tr>
+<td>📋 <b>KPMG</b><br/>Data Analyst | Jan 2021–Aug 2023</td>
+<td>• Analyzed 300GB+ datasets in Snowflake<br/>• 35% improvement in anomaly detection accuracy<br/>• $400K+ cost savings from procurement analytics</td>
+</tr>
+<tr>
+<td>💼 <b>Trigent</b><br/>Data Analyst | Oct 2018–Jan 2021</td>
+<td>• Processed 3M+ transaction records<br/>• 20+ Power BI dashboards across 5 business units<br/>• Time series models supporting $1.5M+ in decisions</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seshasudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshasudi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=seshasudi&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **M.S. Business Analytics & Artificial Intelligence** — University of Texas at Dallas *(2023–2025)*
+- 📜 Always adding new certifications — stay tuned!
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sesha%20Sudi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seshasudi)
+[![Email](https://img.shields.io/badge/Gmail-seshasudi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seshasudi@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-984--325--4848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9843254848)
+
+*Open to Data Analyst, Senior Analyst, and Analytics Engineering roles.*
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</div>
