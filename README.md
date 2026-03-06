@@ -18,7 +18,9 @@
 </div>
 
 ---
-I speak fluent SQL, dream in Python, and train models like they owe me a prediction. 😂
+
+*I speak fluent SQL, dream in Python, and train models like they owe me a prediction.* 😂
+
 ---
 
 ## 📊 GitHub Stats
