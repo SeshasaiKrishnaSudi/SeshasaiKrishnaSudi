@@ -24,12 +24,8 @@
 ```python
 analyst = {
     "name"      : "Sesha Sai Krishna Sudi",
-    "location"  : "North Carolina, USA 📍",
+    "location"  : "United States 📍",
     "education" : "M.S. Business Analytics & AI — UT Dallas",
-    "current"   : "Data Analyst @ JPMorgan Chase & Co.",
-    "experience": "5+ years across Banking, Consulting & Enterprise",
-    "strengths" : ["SQL Optimization", "ETL Pipelines", "Dashboards", "Predictive Modeling"],
-    "fun_fact"  : "I've analyzed 300GB+ datasets and turned them into $400K+ cost savings 💡"
 }
 ```
 
@@ -70,37 +66,6 @@ analyst = {
 
 ---
 
-## 🚀 Featured Projects
-
-> Click on any project to explore the full analysis, code, and findings.
-
-| # | Project | Tools | Highlights |
-|---|---------|-------|------------|
-| 🏦 | **[Financial Anomaly Detection](https://github.com/seshasudi/financial-anomaly-detection)** | Python, SQL, Snowflake, Power BI | Flagged 120+ high-risk entries using ML-based anomaly scoring |
-| 📊 | **[Revenue Forecasting Engine](https://github.com/seshasudi/revenue-forecasting)** | Python, ARIMA, Prophet, Tableau | Time-series models supporting $1.5M+ in annual strategic decisions |
-| 🔄 | **[End-to-End ETL Pipeline](https://github.com/seshasudi/etl-pipeline-project)** | Python, Airflow, PostgreSQL, dbt | Automated pipeline reducing weekly prep time by 18+ hours |
-| 🧠 | **[Advanced SQL Case Studies](https://github.com/seshasudi/sql-case-studies)** | SQL (CTEs, Window Functions) | 25+ real-world problems solved with complex query patterns |
-| 🛒 | **[Procurement Analytics & Cohort Analysis](https://github.com/seshasudi/procurement-analytics)** | R, Python, Power BI | Spending patterns → $400K+ cost savings recommendations |
-| 🧪 | **[A/B Testing Framework](https://github.com/seshasudi/ab-testing-framework)** | Python, Statistics, Jupyter | Full hypothesis testing workflow with real e-commerce data |
-
----
-
-## 📌 Career Highlights
-
-<table>
-<tr>
-<td>🏦 <b>JPMorgan Chase & Co.</b><br/>Data Analyst | Aug 2025–Present</td>
-<td>• 30% faster report generation via SQL optimization<br/>• 10+ automated Tableau dashboards for risk & finance<br/>• 40% reduction in manual SOX reporting time</td>
-</tr>
-<tr>
-<td>📋 <b>KPMG</b><br/>Data Analyst | Jan 2021–Aug 2023</td>
-<td>• Analyzed 300GB+ datasets in Snowflake<br/>• 35% improvement in anomaly detection accuracy<br/>• $400K+ cost savings from procurement analytics</td>
-</tr>
-<tr>
-<td>💼 <b>Trigent</b><br/>Data Analyst | Oct 2018–Jan 2021</td>
-<td>• Processed 3M+ transaction records<br/>• 20+ Power BI dashboards across 5 business units<br/>• Time series models supporting $1.5M+ in decisions</td>
-</tr>
-</table>
 
 ---
 
@@ -124,7 +89,8 @@ analyst = {
 ## 🎓 Education & Certifications
 
 - 🎓 **M.S. Business Analytics & Artificial Intelligence** — University of Texas at Dallas *(2023–2025)*
-- 📜 Always adding new certifications — stay tuned!
+- 📜 Salesforce Admin Certificate
+- 📜 Google Analytics Certificate
 
 ---
 
