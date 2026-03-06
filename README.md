@@ -5,13 +5,13 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+business+decisions.;SELECT+*+FROM+ambition+WHERE+limit+%3D+none%3B;Training+models.+Breaking+pipelines.+Fixing+both.+%F0%9F%98%85;Data+Analyst+%E2%86%92+AI+%2F+ML+Engineer+(in+progress)" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + GitHub Stats Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=seshasudi&color=00d4ff&style=flat-square&label=Profile+Views)
+<!-- Profile Views + Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=SeshasaiKrishnaSudi&color=00d4ff&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sesha-sai-krishna-sudi/)
 [![Email](https://img.shields.io/badge/Email-seshasudi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seshasudi@gmail.com)
 
@@ -21,15 +21,34 @@
 
 ## 👨‍💻 About Me
 
-```python
-analyst = {
-    "name"      : "Sesha Sai Krishna Sudi",
-    "location"  : "United States 📍",
-    "education" : "M.S. Business Analytics & AI — UT Dallas",
-}
-```
+🧠 *I speak fluent SQL, dream in Python, and train models like they owe me a prediction.* 😂
 
-> *"Data is the new oil — I'm the refinery."*
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeshasaiKrishnaSudi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f2027&title_color=00d4ff&icon_color=00d4ff&text_color=a8dadc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeshasaiKrishnaSudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d4ff&text_color=a8dadc" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SeshasaiKrishnaSudi&theme=tokyonight&hide_border=true&background=0f2027&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=a8dadc&dates=a8dadc" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SeshasaiKrishnaSudi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
 
 ---
 
@@ -74,15 +93,26 @@ analyst = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeshasaiKrishnaSudi/SeshasaiKrishnaSudi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeshasaiKrishnaSudi/SeshasaiKrishnaSudi/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SeshasaiKrishnaSudi/SeshasaiKrishnaSudi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sesha%20Sudi-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sesha-sai-krishna-sudi/)
 [![Email](https://img.shields.io/badge/Gmail-seshasudi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seshasudi@gmail.com)
-
-
-*Open to Data Analyst, Senior Analyst, and Analytics Engineering roles.*
 
 </div>
 
